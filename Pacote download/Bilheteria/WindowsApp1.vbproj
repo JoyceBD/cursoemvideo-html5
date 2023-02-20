@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{161481B8-C43C-4913-9EF9-2D6490EE67EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp1</RootNamespace>
+    <AssemblyName>WindowsApp1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApp1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApp1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1484.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1484.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_catalogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_catalogo.Designer.vb">
+      <DependentUpon>frm_catalogo.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_pix.Designer.vb">
+      <DependentUpon>frm_pix.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_pix.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_adm.Designer.vb">
+      <DependentUpon>frm_adm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_adm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gerenciar_filmes.Designer.vb">
+      <DependentUpon>frm_gerenciar_filmes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gerenciar_filmes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_editar_filme.Designer.vb">
+      <DependentUpon>frm_editar_filme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_editar_filme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_editar_especificacoes.Designer.vb">
+      <DependentUpon>frm_editar_especificacoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_editar_especificacoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gfuncionarios.Designer.vb">
+      <DependentUpon>frm_gfuncionarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gfuncionarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gclientes.Designer.vb">
+      <DependentUpon>frm_gclientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gclientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_cliente.Designer.vb">
+      <DependentUpon>frm_cadastro_cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_boleto.Designer.vb">
+      <DependentUpon>frm_boleto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_boleto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_filme.Designer.vb">
+      <DependentUpon>frm_filme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_filme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_bilhete.Designer.vb">
+      <DependentUpon>frm_bilhete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_bilhete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_controle_vendas.Designer.vb">
+      <DependentUpon>frm_controle_vendas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_controle_vendas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_funcionario.Designer.vb">
+      <DependentUpon>frm_funcionario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_funcionario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cliente.Designer.vb">
+      <DependentUpon>frm_cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_funcionario.Designer.vb">
+      <DependentUpon>frm_cadastro_funcionario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_funcionario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_add_filme.Designer.vb">
+      <DependentUpon>frm_add_filme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_add_filme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_historico.Designer.vb">
+      <DependentUpon>frm_historico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_historico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_compra_ingresso.Designer.vb">
+      <DependentUpon>frm_compra_ingresso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_compra_ingresso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_pagamento.Designer.vb">
+      <DependentUpon>frm_pagamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_pagamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_catalogo.resx">
+      <DependentUpon>frm_catalogo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_pix.resx">
+      <DependentUpon>frm_pix.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_adm.resx">
+      <DependentUpon>frm_adm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gerenciar_filmes.resx">
+      <DependentUpon>frm_gerenciar_filmes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_editar_filme.resx">
+      <DependentUpon>frm_editar_filme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_editar_especificacoes.resx">
+      <DependentUpon>frm_editar_especificacoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gfuncionarios.resx">
+      <DependentUpon>frm_gfuncionarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gclientes.resx">
+      <DependentUpon>frm_gclientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_cliente.resx">
+      <DependentUpon>frm_cadastro_cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_boleto.resx">
+      <DependentUpon>frm_boleto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_filme.resx">
+      <DependentUpon>frm_filme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_bilhete.resx">
+      <DependentUpon>frm_bilhete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_controle_vendas.resx">
+      <DependentUpon>frm_controle_vendas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_funcionario.resx">
+      <DependentUpon>frm_funcionario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cliente.resx">
+      <DependentUpon>frm_cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_funcionario.resx">
+      <DependentUpon>frm_cadastro_funcionario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_add_filme.resx">
+      <DependentUpon>frm_add_filme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_historico.resx">
+      <DependentUpon>frm_historico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_compra_ingresso.resx">
+      <DependentUpon>frm_compra_ingresso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_pagamento.resx">
+      <DependentUpon>frm_pagamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,690 @@
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\bin\Debug\WindowsApp1.exe.config
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\bin\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\bin\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\bin\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\bin\Debug\WindowsApp1.exe.config
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\bin\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\bin\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\bin\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form12.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form13.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form14.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form15.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form16.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form17.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form22.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form23.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_assentos.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Form8.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\vb.net\Bilheteria\obj\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\bin\Debug\WindowsApp1.exe.config
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\bin\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\bin\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\bin\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.Form23.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.teste.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.teste_bancos.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+D:\engenharia de software\Bilheteria\bin\Debug\WindowsApp1.exe.config
+D:\engenharia de software\Bilheteria\bin\Debug\WindowsApp1.exe
+D:\engenharia de software\Bilheteria\bin\Debug\WindowsApp1.pdb
+D:\engenharia de software\Bilheteria\bin\Debug\WindowsApp1.xml
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+D:\engenharia de software\Bilheteria\obj\Debug\Interop.ADODB.dll
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.teste.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.teste_bancos.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.exe
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.xml
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Sistemas de Informação\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+D:\engenharia de software\Bilheteria\obj\Debug\WindowsApp1.frm_cliente.resources
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\WindowsApp1.exe.config
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_cliente.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.teste.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.teste_bancos.resources
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\EnvDTE.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\stdole.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Bilheteria\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\WindowsApp1.exe.config
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\WindowsApp1.exe
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\WindowsApp1.pdb
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\WindowsApp1.xml
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\EnvDTE.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\stdole.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\Interop.ADODB.dll
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_cliente.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.teste.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.teste_bancos.resources
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.exe
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.xml
+C:\Users\Joyce\Documents\Bilheteria\obj\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\WindowsApp1.exe.config
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\WindowsApp1.pdb
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\EnvDTE.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\stdole.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_cliente.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.exe
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.xml
+C:\Users\gabri\Desktop\Pasta\fatec\Bilheteria\obj\Debug\WindowsApp1.pdb
+D:\Bilheteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Bilheteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Bilheteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Bilheteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Bilheteria\bin\Debug\WindowsApp1.exe.config
+D:\Bilheteria\bin\Debug\WindowsApp1.exe
+D:\Bilheteria\bin\Debug\WindowsApp1.pdb
+D:\Bilheteria\bin\Debug\WindowsApp1.xml
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Bilheteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Bilheteria\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Bilheteria\bin\Debug\EnvDTE.dll
+D:\Bilheteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Bilheteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Bilheteria\bin\Debug\stdole.dll
+D:\Bilheteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Bilheteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Bilheteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Bilheteria\bin\Debug\Microsoft.MSXML.dll
+D:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Bilheteria\obj\Debug\Interop.ADODB.dll
+D:\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_cliente.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+D:\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Bilheteria\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\Bilheteria\obj\Debug\WindowsApp1.exe
+D:\Bilheteria\obj\Debug\WindowsApp1.xml
+D:\Bilheteria\obj\Debug\WindowsApp1.pdb
+E:\Bilheteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Bilheteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Bilheteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Bilheteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Bilheteria\bin\Debug\WindowsApp1.exe.config
+E:\Bilheteria\bin\Debug\WindowsApp1.exe
+E:\Bilheteria\bin\Debug\WindowsApp1.pdb
+E:\Bilheteria\bin\Debug\WindowsApp1.xml
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Bilheteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Bilheteria\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Bilheteria\bin\Debug\EnvDTE.dll
+E:\Bilheteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Bilheteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Bilheteria\bin\Debug\stdole.dll
+E:\Bilheteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Bilheteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Bilheteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Bilheteria\bin\Debug\Microsoft.MSXML.dll
+E:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Bilheteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Bilheteria\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\Bilheteria\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+E:\Bilheteria\obj\Debug\Interop.ADODB.dll
+E:\Bilheteria\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_catalogo.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_pix.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_adm.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_gerenciar_filmes.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_editar_filme.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_editar_especificacoes.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_gfuncionarios.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_gclientes.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_cad_cliente.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_boleto.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_filme.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_bilhete.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_controle.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_funcionario.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_cliente.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_login.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_conta_funcionario.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_add.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_historico.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_compra_ingresso.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.frm_pagamento.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.Resources.resources
+E:\Bilheteria\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Bilheteria\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Bilheteria\obj\Debug\WindowsApp1.vbproj.CopyComplete
+E:\Bilheteria\obj\Debug\WindowsApp1.exe
+E:\Bilheteria\obj\Debug\WindowsApp1.xml
+E:\Bilheteria\obj\Debug\WindowsApp1.pdb
